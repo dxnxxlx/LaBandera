@@ -1,0 +1,25 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+div{
+	
+	margin: 10px;
+	display: inline-block;
+
+}
+
+p{
+	padding: 10px;
+}
+
+.amarillo{
+	background-color: yellow;
+}
+
+.rojo{
+	background-color: red;
+	;
+}
+
